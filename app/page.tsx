@@ -20,7 +20,7 @@ export default function Home() {
           <div className="space-y-6">
             <h1 className="text-4xl font-bold">Découvrez nos salades fraîches et gourmandes</h1>
             <p className="text-lg">
-              Chez Eat Healthy, nous préparons des salades fraîches avec des
+              Chez AFRICA BITE, nous préparons des salades fraîches avec des
               ingrédients de qualité pour vous offrir une expérience gustative
               exceptionnelle.
             </p>
